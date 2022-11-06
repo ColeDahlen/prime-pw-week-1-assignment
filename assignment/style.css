@@ -17,6 +17,9 @@ p {
 }
 img {
     border-radius: 200in;
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 5px;
 }
 ul {
     font-family:'Times New Roman', Times, serif ;

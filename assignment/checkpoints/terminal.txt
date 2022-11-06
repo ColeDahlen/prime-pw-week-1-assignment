@@ -15,8 +15,8 @@ Using the command "touch" followed by the name of the file and add the type of f
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.33.0
 # 8 - Why would you run the command 'git status'?
-To see if there is anything that needs to be "git add" and then "git commit"
+Git status tells you what changes have been made to what and if it is staged.
 # 9 - What does the command 'git add .' do?
-Adds a change in the directory 
+'git add' stages into the current directory, but when you add the '.' it stages all current directories. "git add ."
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main 
